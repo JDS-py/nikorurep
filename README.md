@@ -1,8 +1,16 @@
 # nikoruyamagashi
 Discord Bot made with much love!
 
-Geolocator source code:
+# Geolocator source code:
 https://github.com/lixeri/IP-Tools
 
 Most of the coding is made by me...
+
+# Bot Prefix is:
+- y!
+
+# How to install
+
+
+
 
