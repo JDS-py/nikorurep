@@ -1,5 +1,5 @@
-# nikoruyamagashi
-Discord Bot made with much love!
+# Nikoru Yamagashi
+A Discord Bot made with much love!
 
 Most of the coding is made by me... 
 
