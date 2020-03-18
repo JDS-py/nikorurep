@@ -1,10 +1,12 @@
 # nikoruyamagashi
 Discord Bot made with much love!
 
+Most of the coding is made by me... 
+
+Discord tag: JDS#2131
+
 # Geolocator source code:
 https://github.com/lixeri/IP-Tools
-
-Most of the coding is made by me...
 
 # Bot Prefix is:
 - y!
