@@ -26,7 +26,7 @@ def get_prefix(bot, message):
 
     return commands.when_mentioned_or(*prefixes)(bot, message)
 
-lapi_key = "3d5f8a342abd6ca324d74b6d8cc5fe3931a9a635cd30f3d0b0a3642e"
+lapi_key = ""
 
 client = commands.Bot(command_prefix = get_prefix)
 
@@ -34,7 +34,7 @@ client.remove_command("help")
 
 now = datetime.datetime.now()
 
-hook3 = Webhook('https://discordapp.com/api/webhooks/679284348905848833/z8noof9m04mlni-otJOqW2hPNhOUkSVefr2XZLntM1Kzp7lLWmcH2FZwmqk8nwN5loHa')
+hook = Webhook('')
 
 hostname = socket.gethostname()   
 
